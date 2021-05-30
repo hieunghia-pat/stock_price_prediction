@@ -1,0 +1,4 @@
+/checkpoints/*
+/_checkpoints/*
+/results.xlsx
+/.vscode/*
