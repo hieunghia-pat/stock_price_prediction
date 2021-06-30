@@ -1,4 +1,4 @@
-# Stock Price Prediction Uing Deep Learning Method
+# Stock Price Prediction Using Deep Learning Method
 
 #### Investigating some attributes of deep learning methods when apply to stock price prediction problem
 LSTM and GRU are usually the common approaches to predict future stock price on historical stock price.
