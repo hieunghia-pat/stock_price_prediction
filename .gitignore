@@ -1,3 +1,5 @@
 /_checkpoints/*
 /results.xlsx
 /.vscode/*
+/train.py
+/read_data.py
